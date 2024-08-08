@@ -7,8 +7,6 @@ public class Sub {
 
     }
 
-        System.out.println("Thank You");
-
     }
 
 

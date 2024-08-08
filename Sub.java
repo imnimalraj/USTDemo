@@ -4,9 +4,13 @@ public class Sub {
         int b = 6;
         int c=a-b;
         System.out.println(c);
+
+    }
+
         System.out.println("Thank You");
 
     }
+
 
     
 }
